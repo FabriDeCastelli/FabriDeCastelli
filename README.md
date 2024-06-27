@@ -78,3 +78,11 @@ Current activity
 <a href="https://github.com/FabriDeCastelli/competitive-programming">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabridecastelli&repo=competitive-programming&theme=nightowl" />
 </a>
+
+
+### Our Social Network - JourneyTales
+
+Key contributor in the full stack development of JourneyTales, coauthored by the <a href="https://www.usi.ch/it"> USI</a> Pufferfish Team (2023) 
+
+[![GitLab project](https://img.shields.io/static/v1?label=GitLab&message=Journeytales%20Frontend&color=blue)](https://gitlab.com/usi-si-oss/teaching/projects-showcase/sa4/team-4-pufferfish/frontend)
+[![GitLab project](https://img.shields.io/static/v1?label=GitLab&message=Journeytales%20Backend&color=blue)](https://gitlab.com/usi-si-oss/teaching/projects-showcase/sa4/team-4-pufferfish/backend)
