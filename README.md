@@ -23,7 +23,7 @@ Current activity
 ### Contact
 - Institutional email: <a href= "mailto:d.goglia@studenti.unipi.it" target="_blank">f.decastelli@studenti.unipi.it</a>
 - Private email: <a href= "mailto:decastellifabrizio@gmail.com" target="_blank">decastellifabrizio@gmail.com</a>
-- Linkedin: <a href='https://www.linkedin.com/in/fabriziodecastelli/' target="_blank">Fabrizio De Castelli</a>
+- Linkedin: <a href='https://www.linkedin.com/in/fabrizio-de-castelli-bb8b77270/' target="_blank">Fabrizio De Castelli</a>
 
 #### Interests
 - Deep Learning and Neural Models
