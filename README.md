@@ -64,22 +64,6 @@ Current activity
 
 <br/><br/>
 
-### My Favorite Projects
-
-<a href="https://github.com/FabriDeCastelli/Ant-Colony-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabridecastelli&repo=Ant-Colony-System&theme=nightowl" />
-</a>
-<a href="https://github.com/FabriDeCastelli/Wordle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabridecastelli&repo=Wordle&theme=nightowl" />
-</a>
-<a href="https://github.com/FabriDeCastelli/RayTracer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabridecastelli&repo=RayTracer&theme=nightowl" />
-</a>
-<a href="https://github.com/FabriDeCastelli/competitive-programming">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabridecastelli&repo=competitive-programming&theme=nightowl" />
-</a>
-
-
 ### Our Social Network - JourneyTales
 
 Key contributor in the full stack development of JourneyTales, coauthored by the <a href="https://www.usi.ch/it"> USI</a> Pufferfish Team (2023) 
