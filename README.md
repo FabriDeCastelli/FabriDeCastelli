@@ -26,27 +26,26 @@ Current activity
 - Linkedin: <a href='https://www.linkedin.com/in/fabrizio-de-castelli-bb8b77270/' target="_blank">Fabrizio De Castelli</a>
 
 #### Interests
-- Deep Learning and Neural Models
-- Probabilistic Machine Learning
-- Algorithms and data structures
+- Probabilistic (Deep) Machine Learning
+- Computer Vision
 - Competitive Programming
 
-### Languages and Tools: 
+### Languages and Tools
 
 <div>
 <img width="26px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img width="26px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
 <img width="26px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-  
 <img width="26px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png">
+<img align="left" alt="Pytorch" width="26px" src="https://avatars.githubusercontent.com/u/21003710?s=48&v=4">
 <img align="left" alt="Keras" width="26px" src="https://raw.githubusercontent.com/github/explore/cf9a84017e3cdd93aeb635d9b85379ba67d62031/topics/keras/keras.png">
-<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
+<img align="left" alt="Lightning AI" width="26px" src="https://avatars.githubusercontent.com/u/58386951?s=200&v=4">
 <img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
+
 </div>
 
 <br/><br/>
-### GitHub activity:
+### GitHub activity
 <!-- TROPHY -->
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=fabridecastelli&theme=gruvbox&no-bg=true" alt="fabridecastelli" /> </p>
 
